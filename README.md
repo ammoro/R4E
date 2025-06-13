@@ -1,2 +1,3 @@
-# R4E
-Material for EUROLABS workshop
+# R4E: Material for EUROLABS workshop
+
+Strong links between theory and experiment are mandatory to advance nuclear physics and optimize the realization of experimental research programs. Presently, there is a limited amount of available data and software that allow experimentalists to have an easy access to state-of-the-art predictions for nuclear observables. One of the goals of the EURO-LABS project, implemented within the Horizon Europe program, consists in establishing virtual access (VA) facilities that fill this gap. The Theo4Exp facility has been recently launched in February 2024. The purpose of this workshop is to make Theo4Exp more widely known, introduce prospective users to its exploitation and, more importantly, set the grounds for broadening the scope of Theo4Exp and ameliorating the service for all the low-energy nuclear physics community. The ultimate goal is, thus, to further improve the synergy between theory and experiment, and improve the scientific impact of the field.
